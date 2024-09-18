@@ -1,5 +1,4 @@
 import EditTaskForm from "@/components/EditTaskForm/EditTaskForm";
-import NewTaskForm from "@/components/NewTaskForm/NewTaskForm";
 import { TaskDocument } from "@/models/task";
 
 interface Params {
